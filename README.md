@@ -1,2 +1,0 @@
-# InvoiceMergeTool
-Merge Tool 
